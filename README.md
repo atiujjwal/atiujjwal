@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/atiujjwal/atiujjwal/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+
 # Hi there, I'm Ujjwal Kashyap! 👋
 
 I am a **Backend-Focused Software Developer** passionate about building scalable, modular, and secure systems for SaaS platforms. 
@@ -94,3 +99,4 @@ Currently, I am working as an **Associate Software Engineer** at **Hurix Digital
 <p align="center">
   <i>"I enjoy designing architectures that are maintainable long-term, type-safe at scale, and optimized for real workloads."</i>
 </p>
+
