@@ -1,5 +1,26 @@
 <div align="center">
-  <img src="https://github.com/atiujjwal/atiujjwal/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--              CONTRIBUTION GRAPH & LIVE STATS               -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/atiujjwal/atiujjwal/raw/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/atiujjwal/atiujjwal/raw/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://github.com/atiujjwal/atiujjwal/raw/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+
+  <br/>
+
 </div>
 
 
@@ -99,4 +120,3 @@ Currently, I am working as an **Associate Software Engineer** at **Hurix Digital
 <p align="center">
   <i>"I enjoy designing architectures that are maintainable long-term, type-safe at scale, and optimized for real workloads."</i>
 </p>
-
